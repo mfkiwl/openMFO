@@ -1,0 +1,6 @@
+[submodule "src/matrix"]
+	path = src/matrix
+	url = git@github.com:nunuNNN/Matrix.git
+[submodule "third_party/matrix"]
+	path = third_party/matrix
+	url = git@github.com:nunuNNN/Matrix.git
